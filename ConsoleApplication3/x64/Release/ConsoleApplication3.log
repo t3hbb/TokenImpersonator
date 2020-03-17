@@ -1,0 +1,8 @@
+﻿  ConsoleApplication3.cpp
+c:\users\ian.lyte\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(86): warning C4101: 'LastError': unreferenced local variable
+  Generating code
+  1 of 7 functions (14.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication3.vcxproj -> C:\Users\ian.lyte\source\repos\ConsoleApplication3\x64\Release\ConsoleApplication3.exe
